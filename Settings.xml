@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX9>
+    <StructureAddress>1430150</StructureAddress>
+    <ZoomCurrent>F8</ZoomCurrent>
+    <ZoomMax>100</ZoomMax>
+    <FovCurrent>104</FovCurrent>
+    <FovMax>10C</FovMax>
+  </DX9>
+  <DX11>
+    <StructureAddress>1C5F270</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMax>11C</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
+  </DX11>
+  <LastUpdate>2020-8-18 - 5.21</LastUpdate>
+  <Version>2020.08.18.0000.0000</Version>
+  <AutoApply>False</AutoApply>
+  <DesiredZoom>44</DesiredZoom>
+  <DesiredFov>0.78</DesiredFov>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/RicterZ/ErozeaZoom/master/Offsets.xml</OffsetUpdateLocation>
+</Root>
