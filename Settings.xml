@@ -19,5 +19,5 @@
   <AutoApply>False</AutoApply>
   <DesiredZoom>44</DesiredZoom>
   <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation>https://raw.githubusercontent.com/RicterZ/ErozeaZoom/master/Offsets.xml</OffsetUpdateLocation>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/RicterZ/ErozeaZoom/master/Settings.xml</OffsetUpdateLocation>
 </Root>
